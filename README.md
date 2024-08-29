@@ -21,4 +21,4 @@ Dentro do colchete, vai o texto que aprece na pagina. Dentro do parentesis, vai 
 
 
 # Exemplo inserindo imagem com link
-[![imagem qualquer](https://images2.alphacoders.com/126/1265201.jpg "a title")](https://www.youtube.com/watch?v=OFHbIsYjbOI)
+[![imagem qualquer]([https://images2.alphacoders.com/126/1265201.jpg](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c2e9d59-ee54-490e-bf96-5497f587844f/dgd4gtl-790c6b95-e5bc-4f89-9a49-3326c833c4c0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljMmU5ZDU5LWVlNTQtNDkwZS1iZjk2LTU0OTdmNTg3ODQ0ZlwvZGdkNGd0bC03OTBjNmI5NS1lNWJjLTRmODktOWE0OS0zMzI2YzgzM2M0YzAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cJnGlXstg6bqzhRSFKu3ZVbFF65ayO0cCUBYH6s-daw) "a title")](https://www.youtube.com/watch?v=OFHbIsYjbOI)
